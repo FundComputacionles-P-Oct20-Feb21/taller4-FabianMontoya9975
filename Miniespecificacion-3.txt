@@ -1,0 +1,33 @@
+Algoritmo-3
+
+1. Inicio.
+2. Se pide ingresar el costo por minutos.
+3. Se pide ingresar el número de minutos consumidos en el mes.
+4. Se calcula el valor de la planilla multiplicando el costo por los minutos consumidos.
+5. Se presenta en pantalla el producto de la multiplicación como valor final de la planilla.
+6. Fin
+
+
+---------- Miniespecificacion o Pseudocódigo
+
+
+1. Inicio
+
+//declarar variables
+2. costominuto, d[0,n]
+3. minconsumo, d[0,n]
+4. producto, d[0,n]
+
+//pedir datos por teclado - entradas
+5. Escribir "Ingresar el costo por minutos"
+6. Leer costominuto
+7. Escribir "Ingresar los minutos consumidos en el mes"
+8. Leer minconsumo
+
+//proceso
+9. producto <-- costominuto * minconsumo
+
+//salida
+10. Escribir "El valor de la planilla: " + producto
+
+11. Fin

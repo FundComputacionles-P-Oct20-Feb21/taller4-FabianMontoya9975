@@ -19,20 +19,18 @@ Algoritmo-1
 3. altura, d[0,n]
 4. producto, d[0,n]
 5. cociente, d[0,n]
-6. area, d[0,n]
 
 //Pedir datos por teclado - entradas
-7. Escribir "Ingresar la base del triángulo"
-8. Leer base
-9. Escribir "Ingresar altura del triángulo"
-10. Leer altura
+6. Escribir "Ingresar la base del triángulo"
+7. Leer base
+8. Escribir "Ingresar altura del triángulo"
+9. Leer altura
 
 //proceso
-11. producto <-- base * altura
-12. cociente <-- producto / 2
-13. area <-- cociente
+10. producto <-- base * altura
+11. cociente <-- producto / 2
 
 //salida
-14. Escribir "El área del triángulo es: " + area
+13. Escribir "El área del triángulo es: " + cociente
 
-15.Fin
+14. Fin

@@ -9,7 +9,7 @@ Algoritmo-2
 7. Fin.
 
 
----------- Miniespecificacion o Pseudocódigo 
+---------- Miniespecificacion o Pseudocódigo
 
 
 1. Inicio

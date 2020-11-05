@@ -14,13 +14,13 @@ Algoritmo-1
 
 1. Inicio.
 
-//Declarar variables
+//declarar variables
 2. base, d[0,n]
 3. altura, d[0,n]
 4. producto, d[0,n]
 5. cociente, d[0,n]
 
-//Pedir datos por teclado - entradas
+//pedir datos por teclado - entradas
 6. Escribir "Ingresar la base del triángulo"
 7. Leer base
 8. Escribir "Ingresar altura del triángulo"

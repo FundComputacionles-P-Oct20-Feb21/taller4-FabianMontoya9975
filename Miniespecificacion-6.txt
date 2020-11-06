@@ -24,7 +24,7 @@ Algoritmo-6
 7. plandesc, d[0,n]
 
 //pedir datos por teclado - entradas
-8. Escribir "Ingresaredad del usuario"
+8. Escribir "Ingresar edad del usuario"
 9. Leer edad
 10. Escribir "Ingresar el costo del kilovatio/hora"
 11. Leer costokvh

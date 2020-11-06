@@ -1,0 +1,36 @@
+Algoritmo-5
+
+1. Inicio.
+2. Se pide ingresar el monto del préstasmo.
+3. Se pide ingresar el interés mensual a cobrar.
+4. Se divide el monto del prestamo para 12.
+5. Se suma el resultado de la suma con el valor del interes.
+6. Se muestra en pantalla El resultado de la suma como el pago mensual a realizarse.
+7. Fin.
+
+
+---------- Miniespecificacion o Pseudocódigo
+
+
+1. Inicio
+
+//declarar variables
+2. montoprestamo, d[0,n]
+3. interesmensual, d[0,n]
+4. cociente, d[0,n]
+5. suma, d[0,n]
+
+//pedir datos por teclado - entradas
+6. Escribir "Ingresar el monto del préstamo"
+7. Leer montoprestamo
+8. Escribir "Ingresar el interés mensual a cobrar"
+9. Leer interesmensual
+
+//proceso
+10. cociente <-- montoprestamo / 12
+11. suma <-- cociente + interesmensual
+
+//salida
+12. Escribir "El pago mensual a pagar es: " + suma
+
+13. Fin

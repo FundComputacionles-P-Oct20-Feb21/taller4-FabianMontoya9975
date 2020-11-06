@@ -16,24 +16,24 @@ Algoritmo-4
 1. Inicio
 
 //declarar variables
-2. costocpu, d[0,n]
-3. costoteclado, d[0,n]
-4. costopantalla, d[0,n]
-5. costoraton, d[0,n]
+2. costo_cpu, d[0,n]
+3. costo_teclado, d[0,n]
+4. costo_pantalla, d[0,n]
+5. costo_raton, d[0,n]
 6. suma, d[0,n]
 
 //pedir datos por teclado - entradas
 7. Escribir "Ingresar el costo del CPU"
-8. Leer costocpu
+8. Leer costo_cpu
 9. Escribir "Ingresar costo del teclado"
-10. Leer costoteclado
+10. Leer costo_teclado
 11. Escribir "Ingresar costo de la pantalla"
-12. Leer costopantalla
+12. Leer costo_pantalla
 13. Escribir "Ingresar costo del ratón"
-14. Leer costoraton
+14. Leer costo_raton
 
 //proceso
-15. suma <-- costocpu + costoteclado + costopantalla + costoraton
+15. suma <-- costo_cpu + costo_teclado + costo_pantalla + costo_raton
 
 //salida
 16. Escribir "El costo de la computadora de escritorio es " + suma

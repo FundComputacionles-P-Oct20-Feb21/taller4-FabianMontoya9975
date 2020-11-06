@@ -14,18 +14,18 @@ Algoritmo-3
 1. Inicio
 
 //declarar variables
-2. costominuto, d[0,n]
-3. minconsumo, d[0,n]
+2. costo_minuto, d[0,n]
+3. minutos_consumidos, d[0,n]
 4. producto, d[0,n]
 
 //pedir datos por teclado - entradas
 5. Escribir "Ingresar el costo por minutos"
-6. Leer costominuto
+6. Leer costo_minuto
 7. Escribir "Ingresar los minutos consumidos en el mes"
-8. Leer minconsumo
+8. Leer minutos_consumidos
 
 //proceso
-9. producto <-- costominuto * minconsumo
+9. producto <-- costo_minuto * minutos_consumidos
 
 //salida
 10. Escribir "El valor de la planilla: " + producto

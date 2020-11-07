@@ -33,4 +33,4 @@ Algoritmo-1
 //salida
 13. Escribir "El área del triángulo es: " + cociente
 
-14. Fin
+14.Fin

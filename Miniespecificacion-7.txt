@@ -42,7 +42,7 @@ Algoritmo-7
 //proceso
 20. suma <-- costo_netflix + costo_youtube + costo_dropbox + costo_spotify
 21. descuento <-- suma * 20%
-22. valordesc <-- suma - descuento
+22. valor_con_descuento <-- suma - descuento
 
 //salida
 23. Si edad <30 Entonces
